@@ -268,7 +268,10 @@ body {
   padding: 2rem 1rem;
   text-align: center;
 }
-
+.section5 p{
+  font-size:1.1rem;
+  color:#f4decb;
+}
 /* About Us Page */
 .About-us-page {
   padding: 3rem 1rem;
