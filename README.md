@@ -49,11 +49,3 @@ This was also a personal frontend exercise — to:
 
 ---
 
-## 🚀 How to View
-
-Clone the repo and open the HTML file in your browser:
-
-```bash
-git clone https://github.com/YOUR-USERNAME/deli2go-website.git
-cd deli2go-website
-open index.html
